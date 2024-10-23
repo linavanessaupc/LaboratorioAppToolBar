@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LABTOOLBAR</string>
+    <string-array name="categorias_array">
+        <item>Categoria de su proyecto</item>
+        <item>Espacios Verdes</item>
+        <item>Movilidad Urbana</item>
+        <item>Infraestructura Urbana</item>
+        <item>Proyectos Culturales</item>
+        <item>Sostenibilidad</item>
+        <item>Seguridad y Convivencia</item>
+        <item>Actividades Recreativas</item>
+        <item>Educación y Concienciación</item>
+        <item>Tecnología y Espacio Público</item>
+        <item>Arte y Diseño Urbano</item>
+    </string-array>
+</resources>
